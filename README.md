@@ -3,7 +3,7 @@ A personal portfolio showcasing my projects, skills, and experience as a student
 
 ## Tech Stack
 
-HTML · CSS · JavaScript · React
+HTML · CSS · JavaScript · C
 
 ## Getting Started
 
