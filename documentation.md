@@ -42,7 +42,7 @@ Four distinct `.html` pages and four `.css` layout files alongside a global `sty
 Three fundamental test cases were employed:
 - **Test Case 1: Navigation Links Evaluation**
   - *Action:* Click all links across top navigation and footer.
-  - *Expected:* Link correctly directs user to `about.html`, `skills.html`, `hobbies.html`, `contact.html` respectively.
+  - *Expected:* Link correctly directs user to `index.html`, `skills.html`, `hobbies.html`, `contact.html` respectively.
   - *Result:* Passed.
 
 - **Test Case 2: Contact Form Validation**
